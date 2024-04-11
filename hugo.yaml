@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Tim Tso"
-    Content: CS student at USC interested in math, AI, and physics.
+    Content: CS student at USC.
 
   socialIcons:
     - name: linkedin
